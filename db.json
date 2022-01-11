@@ -1,4 +1,4 @@
-  app = {
+  "app" = {
     "name": "sayax",
     "version": "4 beta",
     "type": "crm",
