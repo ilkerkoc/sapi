@@ -1,21 +1,21 @@
-  "app" = {
-    "name": "sayax",
-    "version": "4 beta",
-    "type": "crm",
-    "title" : "Yeni Yapı",
-    "customer": {
-      "id": "10",
-      "name": "test",
-      "logo": "logo.png"
-    },
-    "language": "turkce",
-    "layout": {
-      "name": "default",
-      "theme": "default",
-      "colorMode": {
-        "name": "dark",
-        "logo": "logo-dark.png",
-        "icon": "icon-dark.png"
-      }
-    }
-  }
+ {
+ 	"name": "sayax",
+ 	"version": "4 beta",
+ 	"type": "crm",
+ 	"title": "Yeni Yapı",
+ 	"customer": {
+ 		"id": "10",
+ 		"name": "test",
+ 		"logo": "logo.png"
+ 	},
+ 	"language": "turkce",
+ 	"layout": {
+ 		"name": "default",
+ 		"theme": "default",
+ 		"colorMode": {
+ 			"name": "dark",
+ 			"logo": "logo-dark.png",
+ 			"icon": "icon-dark.png"
+ 		}
+ 	}
+ }
